@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ADT\AndroidStudioProjects\Youtube_sample\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="D:\ADT\AndroidStudioProjects\Youtube_sample\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_a17302c846b37b24aea282544a19a680c0b0645f\classes.dex" />
+    </item>
+    <item
+        jar="D:\ADT\AndroidStudioProjects\Youtube_sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dd77452e94901c7a9e9bfb2aa49941b7a45590b0">
+        <dex dex="D:\ADT\AndroidStudioProjects\Youtube_sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4cd30bb3db596daa57628afe5c5cdfac66ff285b\classes.dex" />
+    </item>
+    <item
+        jar="D:\ADT\AndroidStudioProjects\Youtube_sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a86fb5ca1225bf41a30ec74277432061f6cb92b1">
+        <dex dex="D:\ADT\AndroidStudioProjects\Youtube_sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c3c5998f3fdcac0ef4ced04b391515f1c077f0ac\classes.dex" />
+    </item>
+
+</items>

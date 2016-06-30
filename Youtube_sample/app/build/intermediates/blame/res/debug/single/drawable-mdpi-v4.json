@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ADT\\AndroidStudioProjects\\Youtube_sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\no_thumbnail.png",
+        "source": "D:\\ADT\\AndroidStudioProjects\\Youtube_sample\\app\\src\\main\\res\\drawable-mdpi\\no_thumbnail.png"
+    },
+    {
+        "merged": "D:\\ADT\\AndroidStudioProjects\\Youtube_sample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\loading_thumbnail.png",
+        "source": "D:\\ADT\\AndroidStudioProjects\\Youtube_sample\\app\\src\\main\\res\\drawable-mdpi\\loading_thumbnail.png"
+    }
+]
